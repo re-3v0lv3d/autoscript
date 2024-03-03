@@ -1,4 +1,4 @@
-En primer lugar el script compruba si hay conexion a internet para instalar el sofware y las dependencias necesarias bajo APT.
+En primer lugar el script comprueba si hay conexion a internet para instalar el sofware y las dependencias necesarias bajo APT.
 
 
 
